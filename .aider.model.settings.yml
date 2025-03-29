@@ -1,6 +1,0 @@
-model_config:
-  num_gpu_layers: 40
-  main:
-    temperature: 0.2
-    repeat_penalty: 1.1
-    top_k: 40
