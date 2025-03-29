@@ -82,7 +82,7 @@ def format_transcription_output_combined(transcription_result):
    last_timestamp = segment["end"]
 
  return formatted_text
-
+# declare hello world function AI!
 def save_transcription_to_file(text_to_save, audio_file_path, model_name):
    """Saves the transcription text to a file, handling potential encoding issues."""
    base_name = os.path.splitext(audio_file_path)[0]
