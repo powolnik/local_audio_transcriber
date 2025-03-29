@@ -4,3 +4,6 @@
 __pycache__/main.cpython-312.pyc
 __pycache__/main.cpython-310.pyc
 __pycache__/app.cpython-310.pyc
+.aider.tags.cache.v4/cache.db-wal
+.aider.tags.cache.v4/cache.db-shm
+.aider.tags.cache.v4/cache.db
