@@ -1,0 +1,8 @@
+/drop
+/add       TASKS.md
+/add       app.py
+/add       config.py
+/add       main.py
+/add       transcription_utils.py
+/read-only CONVENTIONS.md
+/read-only PLAN.md

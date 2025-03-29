@@ -5,3 +5,8 @@
 __pycache__/app.cpython-310.pyc
 __pycache__/main.cpython-310.pyc
 __pycache__/main.cpython-312.pyc
+amsterdam_base.txt
+amsterdam_large-ssv2.txt
+amsterdam_large-v2.txt
+amsterdam_tiny.txt
+amsterdam.mp3
